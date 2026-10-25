@@ -1,0 +1,7 @@
+build/
+data/
+*.key
+*.pem
+*.log
+*.sos
+*.exe
